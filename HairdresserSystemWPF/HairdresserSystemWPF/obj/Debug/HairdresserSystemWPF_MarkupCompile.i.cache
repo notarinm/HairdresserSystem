@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\1\source\repos\HairdresserSystemWPF\HairdresserSystemWPF\obj\Debug\
+C:\Users\1\Desktop\HairdresserSystemWPF\HairdresserSystemWPF\obj\Debug\
 HairdresserSystemWPF
 none
 false
 DEBUG;TRACE
-C:\Users\1\source\repos\HairdresserSystemWPF\HairdresserSystemWPF\App.xaml
+C:\Users\1\Desktop\HairdresserSystemWPF\HairdresserSystemWPF\App.xaml
 71352347317
 
 12-2087502918
-31537290306
+31-1307273834
 AdminCreateAppointmentWindow.xaml;AdminWindow.xaml;BookingWindow.xaml;ClientWindow.xaml;MainWindow.xaml;MasterWindow.xaml;RegisterWindow.xaml;
 
-True
+False
 
