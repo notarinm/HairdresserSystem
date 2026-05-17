@@ -27,3 +27,9 @@ pis_practika_3/
 test/ 
 test0/ 
 "пис/" 
+bin/ 
+obj/ 
+.vs/ 
+packages/ 
+Debug/ 
+Release/ 
